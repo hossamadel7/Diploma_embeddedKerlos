@@ -1,3 +1,7 @@
-first term project
+First term project
 
-# for more details go to the pdf
+-A pressure controller informs the crew of a cabin with an alarm when the 
+pressure exceeds 20 bars in the cabin.
+-The alarm duration some seconds.
+
+# Look at pdf there are more details 
