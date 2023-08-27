@@ -1,1 +1,1 @@
-# Diploma_embeddedKerlos
+# Diploma_embedded_LearnInDepth
