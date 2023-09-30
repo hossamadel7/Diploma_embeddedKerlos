@@ -1,0 +1,12 @@
+stm32_f103c6_EXTI.c:25:6:EXTI_UPDATE	24	static
+stm32_f103c6_EXTI.c:82:6:MCAL_EXTI_GPIO_DeInit	4	static
+stm32_f103c6_EXTI.c:112:6:MCAL_EXTI_GPIO_Init	16	static
+stm32_f103c6_EXTI.c:121:6:EXTI0_IRQHandler	8	static
+stm32_f103c6_EXTI.c:127:6:EXTI1_IRQHandler	8	static
+stm32_f103c6_EXTI.c:133:6:EXTI2_IRQHandler	8	static
+stm32_f103c6_EXTI.c:139:6:EXTI3_IRQHandler	8	static
+stm32_f103c6_EXTI.c:145:6:EXTI4_IRQHandler	8	static
+stm32_f103c6_EXTI.c:152:6:EXTI9_5_IRQHandler	8	static
+stm32_f103c6_EXTI.c:160:6:EXTI15_10_IRQHandler	8	static
+stm32_f103c6_EXTI.c:171:6:enable_NVIC	16	static
+stm32_f103c6_EXTI.c:214:6:disable_NVIC	16	static
